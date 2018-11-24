@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pacientes>
+  <Paciente>
+    <PacienteId>1</PacienteId>
+    <Nome>Danilo Campos Pereira</Nome>
+    <DataNascimento>25/01/1986 00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <PacienteId>2</PacienteId>
+    <Nome>Temirames Santos de Souza</Nome>
+    <DataNascimento>24/03/1990 00:00:00</DataNascimento>
+  </Paciente>
+  <Paciente>
+    <PacienteId>3</PacienteId>
+    <Nome>Camilo Campos Santana</Nome>
+    <DataNascimento>01/08/1956 00:00:00</DataNascimento>
+  </Paciente>
+</Pacientes>

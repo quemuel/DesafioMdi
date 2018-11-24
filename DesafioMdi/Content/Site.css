@@ -1,0 +1,72 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-inverse {
+    background-color: #86acbf;
+    border-color: #86acbf;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #86acbf;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: #90b5c7;
+}
+.btn-mdi-default {
+    color: #ffffff;
+    background-color: #86acbf;
+}
+.btn-mdi-default:hover, .btn-mdi-default:focus, .btn-mdi-default:active, .btn-mdi-default.active, .open .dropdown-toggle.btn-mdi-default {
+    color: #ffffff;
+    background-color: #90b5c7;
+}
+.panel-mdi-default {
+    border-color: #ffffff;
+}
+.panel-mdi-default {
+    color: #ffffff;
+    background-color: #86acbf;
+}
+.panel-mdi-default > .panel-collapse {
+    color: #678797;
+    background-color: #ffffff;
+    border: 1px solid #86acbf;
+}
+.form-control {
+    border: 1px solid #86acbf;
+}
+.container.body-content h3 {
+    color: #7294a5;
+}
+hr {
+    border-top: 1px solid #86acbf;
+}
+body {
+    color: #678797;
+}
